@@ -125,7 +125,7 @@ const start = async function userStart() {
                 'school': ''
             }
             if (position = true) {
-                employeeInfor.push(managerInfo)
+                employeeInfo.push(managerInfo)
                 newemp()
             }
         })
